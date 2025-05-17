@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+lanchain-community
+transformers
+torch
+pypdf
+jinja2  # For HTML templating
+python-multipart  # Required for file uploads
